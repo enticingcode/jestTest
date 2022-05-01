@@ -21,5 +21,4 @@ function caesarCipher(text, num) {
     return cipher;
 }
 
-// caesarCipher('hello', 3);
 module.exports = caesarCipher;
